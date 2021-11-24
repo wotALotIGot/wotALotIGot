@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @wotALotIGot
+- 👀 I’m interested in Smarties! No, seriously, I like fiddling, so making colours match it like making code match.
+- 🌱 I’m currently learning Redis (at work), Haskell (at home)
+- 💞️ I’m looking to collaborate on anything non-work related, anything not web-based.
